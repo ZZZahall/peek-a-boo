@@ -10,3 +10,16 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.dark-background {
+  background-color:gray;
+}
+
+.light-background {
+  background-color:lightgray;
+
+}
+
+.highlight{
+  border: 2px solid red;
+}
